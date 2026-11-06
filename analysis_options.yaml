@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    deprecated_member_use: false
+    use_build_context_synchronously: false
